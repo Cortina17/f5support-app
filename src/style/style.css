@@ -1,0 +1,31 @@
+.header{
+    color: #ff4702;
+    height: 10rem;
+    padding: 1rem;
+    width: 100%;
+}
+
+#title{
+    font-size: 2.5rem;
+}
+
+#logo{
+    width: 11rem;
+    height: auto;
+}
+
+table{
+    padding: 1rem;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+#support{
+    background-color: #ff4702;
+    outline: #ff4702;
+}
