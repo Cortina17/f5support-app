@@ -24,8 +24,40 @@ table{
     width: 100%;
 }
 
-
 #support{
     background-color: #ff4702;
     outline: #ff4702;
+}
+
+@media (min-width: 576px) { 
+    .header{
+        color: #4e1a07;
+        height: 3rem;
+        padding: 0.3rem;
+        width: 100%;
+    }
+    #tab-cont{
+        width: fit-content;
+        height: auto;
+    }
+}
+
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 992px) {
+
+}
+
+
+@media (min-width: 1200px) {
+
+}
+
+
+@media (min-width: 1400px) {
+
 }
